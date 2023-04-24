@@ -1,5 +1,6 @@
 require 'sinatra'
 
 get '/articulos' do
-  'Hola miamor diws'
+  @msg = "Hijos de puta"
+  erb :index
 end

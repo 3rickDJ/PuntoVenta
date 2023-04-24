@@ -7,3 +7,5 @@ source "https://rubygems.org"
 gem "rspec", "~> 3.12"
 
 gem "sinatra", "~> 3.0"
+
+gem "puma", "~> 6.2"
